@@ -26,6 +26,9 @@ function App() {
         <p>
           The JavaScript technology I used to build this website is React.js. React is a JavaScript framework created by Meta. It is made to improve websites load time, memory, and overall efficiency. What it does is create a virtual DOM. Instead of rendering a new page with each update, react only updates specific components. This improves the speed of the website.
         </p>
+        <p>
+          This is why I decided to use it to build this site. JavaScript is in almost every aspect of what you see here. These paragraphs were written in a JavaScript function. It is then compiled into HTML to make it readable.
+        </p>
       </div>
       <div>
         <footer>
